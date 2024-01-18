@@ -391,7 +391,7 @@ a.nav-link:hover {
 .flex-col-2 {
   width: 100%;
   height: auto;
-  columns: 2;
+  columns: 1;
 }
 
 @media (max-width: 768px) {

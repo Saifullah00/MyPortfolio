@@ -92,7 +92,7 @@ let githubprojects = [
   },
   {
     name: 'Saifullah00/Book-Store-Management',
-    icon: 'article',
+    icon: 'menu_book',
   },
   {
     name: 'Saifullah00/Code-Writer',

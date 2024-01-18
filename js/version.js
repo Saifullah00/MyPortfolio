@@ -1,5 +1,5 @@
 function getVersionOfPortfolio() {
-  fetch(`https://api.github.com/repos/Saifullah00/Portfolio/releases/latest`)
+  fetch(`https://api.github.com/repos/Saifullah00/MyPortfolio/releases/latest`)
     .then((response) => {
       return response.json();
     })
