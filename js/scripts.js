@@ -91,12 +91,24 @@ let githubprojects = [
     icon: 'person',    
   },
   {
-    name: 'Saifullah00/Book-Store-Management',
+    name: 'Saifullah00/Airline-Fair-Prediction',
+    icon: 'money',
+  },
+  {
+    name: 'Saifullah00/Book-Recommender-System',
     icon: 'menu_book',
   },
   {
     name: 'Saifullah00/Code-Writer',
     icon: 'description',
+  },
+  {
+    name: 'Saifullah00/Course-Management-System',
+    icon: 'menu_book',
+  },
+  {
+    name: 'Saifullah00/All-News',
+    icon: 'website',
   },
   // {
   //   name: 'Saifullah/Hackathon',
